@@ -32,18 +32,18 @@
 ## 📂 Folder structure
 
 ```
-Fanta-website-Landing-Page-main/
-├── css/
-│   └── style.css
-├── img/
-│   └── (product & decorative images)
-├── js/
-│   └── script.js
+Fanta website Landing Page/
+├── Assets/
+├── Fonts/
+├── preview/
+│   └── homepage-preview.png
 ├── index.html
+├── script.js
+├── style.css
+├── .gitattributes
+├── LICENSE
 └── README.md
 ```
-
-> ℹ️ Adjust this structure to match your actual project folders/files.
 
 ## 🚀 Getting started
 
@@ -54,7 +54,7 @@ Fanta-website-Landing-Page-main/
    npx serve .
    ```
    or use a tool like VS Code's **Live Server** extension.
-4. Customize colors, images, and copy inside `index.html` / `css/style.css` to fit your needs.
+4. Customize colors, images, and copy inside `index.html` / `style.css` to fit your needs.
 
 ## 🛠️ Tech stack
 
